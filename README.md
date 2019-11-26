@@ -10,6 +10,8 @@
 
 ### 最新
 
+* [使用shiro-redis插件遇到的问题](http://www.weilai5217.cn/articles/2019/11/25/1574677567910.html)
+* [Git基础命令](http://www.weilai5217.cn/articles/2019/11/25/1574646475468.html)
 * [Linux使用yum安装mysql8.0及问题](http://www.weilai5217.cn/articles/2019/11/22/1574388873885.html)
 * [世界，你好！](http://www.weilai5217.cn/hello-solo)
 
