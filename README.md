@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [我在 GitHub 上的开源项目](http://www.weilai5217.cn/my-github-repos)
 * [Windows如何找到Mysql的bin目录](http://www.weilai5217.cn/articles/2019/12/06/1575602118585.html)
 * [Windows10系统下忘记MySQL5.7的root密码怎么办?](http://www.weilai5217.cn/articles/2019/12/06/1575601941975.html)
 * [sharding-JDBC学习笔记](http://www.weilai5217.cn/articles/2019/11/27/1574840918383.html)
